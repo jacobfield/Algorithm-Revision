@@ -10,7 +10,6 @@ function linearSearch(arr, x) {
   // If the target value is not found in the array, return -1
   return -1;
 }
-
 let arr = [2, 3, 4, 10, 40]; // Define the array
 let x = 10; // Define the target value to search for
 console.log(linearSearch(arr, x)); // Output: 3 (index of the target value in the array)
